@@ -1,0 +1,55 @@
+
+
+body{
+    width: 360px;
+    height: 640px;
+    padding: 241px 0px 304.4205627441406px 0px;
+    border-radius: 50px;
+    background: #212121;
+    position: relative;
+}
+
+
+p{
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 0px;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+
+.one{
+    border: 1px solid #FFFFFF;
+    width: 12.00000000939319px;
+    height: 30.000000023482976px;
+    border-radius: 5px 5px 0px 0px; 
+    transform:rotate(-48.56deg);
+    position: absolute;
+        top: 19.5%;
+        left: 43%;
+        z-index: 2;
+    background-color: #212121;
+
+
+}
+
+.two{
+    border: 1px solid #FFFFFF;
+    width: 12.000000403785563px;
+    height: 50.000001682439844px;
+    border-radius: 5px 5px 0px 0px;
+    transform: rotate(+42.03deg);
+    position: absolute;
+        top: 17.5%;
+        left: 50%;
+    z-index: 1;
+      
+
+}
+
